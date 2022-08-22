@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289767889961",
+    "project_id": "video-streaming-app-c59e9",
+    "storage_bucket": "video-streaming-app-c59e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289767889961:android:b0f4b3afc99a5ac0121038",
+        "android_client_info": {
+          "package_name": "com.example.livevideostreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289767889961-jfcb9v9ne82qjol04cel75etje78vg0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgnRV-3OtVnzHgib52T_w3X0cOuMWJhM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289767889961-jfcb9v9ne82qjol04cel75etje78vg0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

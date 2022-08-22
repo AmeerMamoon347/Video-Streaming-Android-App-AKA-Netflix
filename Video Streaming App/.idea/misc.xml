@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable-v24/ic_netflix_icon_text.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable-v24/white_circle.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/button_stroke.xml" value="0.24871794871794872" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/check_icon.xml" value="0.24871794871794872" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/grey_circle.xml" value="0.24871794871794872" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/item_selected.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/layout_bg.xml" value="0.24722222222222223" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/linearlayout_stroke.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/lock_icon.xml" value="0.24871794871794872" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/more_icon.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/play_arrow.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/playbutton_background.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/radio_circle.xml" value="0.24871794871794872" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/radio_circle_icon.xml" value="0.24871794871794872" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/resetbutton_drawable.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/resetpw_drawable.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/resettextview_drawable.xml" value="0.23697916666666666" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/search_icon.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/setting_icon.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/drawable/stroke.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_choose_your_plan.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_finish_up_account.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_login.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_main_screen.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_movie_details.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_movies.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_on_boarding.xml" value="0.25" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_payment_gateway.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_payment_overdue.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_search.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_settings.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_step_one.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_step_three.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_step_two.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_tv_series.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/activity_video_player.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/category_row_item.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/linearlayout_stroke.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/lock_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/mainscreen__itemlayout.xml" value="0.22083333333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/mainscreen_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/onBoarding_itemView.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/onboarding_itemview.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/search_itemlayout.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/search_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/settings_toolbar.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/toolbar_movies.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/toolbar_payment.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/toolbar_stepone.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/toolbar_stepthree.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/toolbar_top_mainscreen.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/layout/toolbar_tvseries.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/menu/bottom_menu.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/menu/search_menu.xml" value="0.23645833333333333" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2526041666666667" />
+        <entry key="..\:/College Work/Android Projects/LiveVideoStreaming/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2526041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
